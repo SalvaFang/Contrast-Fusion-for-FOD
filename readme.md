@@ -11,3 +11,5 @@ output_path = "results_stats"
 dataset_name = 0
 # 统计
 ```
+
+图像融合结果的评估参见https://github.com/AiqingFang/Objective-evaluation-for-image-fusion
