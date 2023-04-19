@@ -12,4 +12,4 @@ dataset_name = 0
 # 统计
 ```
 
-图像融合结果的评估参见https://github.com/AiqingFang/Objective-evaluation-for-image-fusion
+图像融合结果的评估使用https://github.com/AiqingFang/Objective-evaluation-for-image-fusion，折线图可视化使用合肥工业大学刘羽的MFIF代码。
