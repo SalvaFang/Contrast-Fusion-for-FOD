@@ -13,3 +13,8 @@ dataset_name = 0
 ```
 
 图像融合结果的评估使用https://github.com/AiqingFang/Objective-evaluation-for-image-fusion，折线图可视化使用合肥工业大学刘羽的MFIF代码。
+
+Fusion和FOD数据集
+链接：https://pan.baidu.com/s/1gImFnvcPL5VLi5iJOJ9S5A 
+提取码：qr51 
+--来自百度网盘超级会员V4的分享
